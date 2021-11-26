@@ -1,0 +1,2 @@
+docker build . -t seven
+docker run seven server 

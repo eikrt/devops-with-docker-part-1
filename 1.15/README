@@ -1,0 +1,11 @@
+# HOMEWORK
+
+## Build
+
+docker build -t hw .
+
+## Running
+
+docker run -it hw
+
+Enjoy hacking!
